@@ -4,3 +4,16 @@
 (        )
 (         )
 (          )))))))))))
+
+
+
+
+RRRRR      IIIIII     TTTTTTTTTT                         
+R    R	     II		  TT
+R   R	     II		  TT
+RRRR	     II		  TT
+R  R         II       	  TT
+R  R         II  	  TT  		
+R   R        II    	  TT
+R    R	     II		  TT
+R     R    IIIIII         TT
